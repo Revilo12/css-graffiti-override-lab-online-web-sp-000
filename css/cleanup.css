@@ -7,7 +7,7 @@
   display: none;
 }
 
-#wall div#tag-3 {
+#wall div#tag-2 + div {
   display: none;
 }
 
